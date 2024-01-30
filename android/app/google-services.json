@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068875886831",
+    "project_id": "castify-2f911",
+    "storage_bucket": "castify-2f911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068875886831:android:2dae1b3aa0e3bdfe92eb1a",
+        "android_client_info": {
+          "package_name": "com.app.castify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjssseZJzSqb1meP2Q17H_VLY8BOYgGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
